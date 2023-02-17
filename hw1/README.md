@@ -79,7 +79,7 @@ The input is `problem number, start_id, goal_id`.
 ```
 Run all problems
 ```
-./run_problem
+./run_problems.sh
 ```
 
 ## Results
