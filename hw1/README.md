@@ -72,7 +72,7 @@ make -j
 
 ## Run 
 Run single problem  
-The input is `problem number, start_id, goal_id`.  
+The inputs are `problem number, start_id, goal_id`.  
 
 ```
 ./solution 1 9 5
