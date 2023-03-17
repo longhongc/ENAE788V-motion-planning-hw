@@ -1,3 +1,9 @@
+/* solver.cpp
+ *
+ * Author: Chang-Hong Chen
+ * Email: longhongc@gmail.com
+ */
+
 #include <algorithm>
 #include <iostream>
 #include <fstream>

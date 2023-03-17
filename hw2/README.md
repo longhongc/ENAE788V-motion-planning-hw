@@ -60,14 +60,14 @@ make -j
 
 ## Run 
 Run single problem    
-The inputs are `problem number, start x, start y, goal_x, goal_y, goal_tolerance, rrt_epsilon`.  
+The inputs are `problem_number, start_x, start_y, goal_x, goal_y, goal_tolerance, rrt_epsilon`.  
 
 ```
 ./solution 1 0 0 -38 20 10 10
 ```
 
 Plot single problem (After run single problem)  
-The inputs are `problem number, start x, start y, goal_x, goal_y, goal_tolerance`.  
+The inputs are `problem_number, start_x, start_y, goal_x, goal_y, goal_tolerance`.  
 ```
 python3 draw_rrt.py 1 0 0 -38 20 10
 ```
