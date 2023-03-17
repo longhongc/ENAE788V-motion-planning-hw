@@ -146,7 +146,7 @@ Run all problems and plot graphs
   epsilon = 10  
   ![problem1](./results/Problem1/Problem1_graph.png)
 
-  Time step between each plane is 2 seconds. 
+  Time step between each plane is 1.5 seconds. 
   ![problem1_gif](./results/Problem1/Problem1_graph.gif)
 
 
